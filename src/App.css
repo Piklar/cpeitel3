@@ -68,6 +68,14 @@ h1 {
   transition: background-color 0.3s;
 }
 
+.Bttns > .extra {
+  border: 5px solid rgb(93, 99, 72);
+  font-size: 2em;
+  font-family: 'Noto Sans JP', sans-serif;
+  background-color: rgb(255, 253, 160);
+  transition: background-color 0.3s;
+}
+
 .Bttns > button:hover {
   background-color: rgb(247, 250, 58);
 }

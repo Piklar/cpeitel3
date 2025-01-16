@@ -75,9 +75,9 @@ function App() {
           <Key label={1} clickHandler={clickHandler} />
           <Key label={2} clickHandler={clickHandler} />
           <Key label={3} clickHandler={clickHandler} />
-          <Key label={"RESET"} clickHandler={clickHandler} className="Reset" />
+          <Key label={"RESET"} clickHandler={clickHandler} className="extra" />
           <Key label={0} clickHandler={clickHandler} />
-          <Key label={"NAME"} clickHandler={clickHandler} />
+          <Key label={"NAME"} clickHandler={clickHandler} className="extra" />
         </div>
       </div>
     </div>
